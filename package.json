@@ -1,0 +1,37 @@
+{
+  "name": "@lukaszbieniek/prettier-config",
+  "version": "1.0.0",
+  "description": "Shareable prettier config file",
+  "license": "MIT",
+  "author": "Łukasz Bieniek <lukasz.bieniek@hotmail.com>",
+  "homepage": "https://github.com/lukaszbieniek/prettier-config#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszbieniek/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lukaszbieniek/prettier-config/issues"
+  },
+  "scripts": {
+    "format": "prettier **/*.{js,md} --write"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "main": "index.js",
+  "files": [
+    "/index.js"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.1.2"
+  },
+  "devDependencies": {
+    "@lukaszbieniek/semantic-release-config": "^1.0.0",
+    "prettier": "^2.1.2",
+    "semantic-release": "^17.1.2"
+  }
+}
