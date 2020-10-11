@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/lukaszbieniek/prettier-config/compare/v1.0.0...v2.0.0) (2020-10-11)
+
+
+### chore
+
+* bump version ([8f0da87](https://github.com/lukaszbieniek/prettier-config/commit/8f0da877565100ce893bd730e0601347a028a9cd))
+
+
+### BREAKING CHANGES
+
+* bump package version for consistency purposes
+
 # 1.0.0 (2020-10-10)
 
 
