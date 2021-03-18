@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/lukaszbieniek/prettier-config/compare/v2.0.0...v2.1.0) (2021-03-18)
+
+
+### Features
+
+* change a maximum line length to 80 characters ([78b6130](https://github.com/lukaszbieniek/prettier-config/commit/78b6130ea737209bb8bceae93fda403029f10705))
+
 # [2.0.0](https://github.com/lukaszbieniek/prettier-config/compare/v1.0.0...v2.0.0) (2020-10-11)
 
 
