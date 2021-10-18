@@ -29,6 +29,6 @@
   "devDependencies": {
     "@lukaszbieniek/semantic-release-config": "^2.0.0",
     "prettier": "^2.2.1",
-    "semantic-release": "^17.4.2"
+    "semantic-release": "^17.4.7"
   }
 }
