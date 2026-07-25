@@ -24,11 +24,11 @@
     "/index.js"
   ],
   "peerDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^3.9.6"
   },
   "devDependencies": {
     "@lukaszbieniek/semantic-release-config": "^2.0.0",
-    "prettier": "^2.2.1",
+    "prettier": "^3.9.6",
     "semantic-release": "^17.4.2"
   }
 }
